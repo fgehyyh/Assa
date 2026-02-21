@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, FREE TVZONE
-https://t100.pcloud.com/cWZVaix6X7ZEgKvFx7ZZZ5f5r0kZQ5ZZgx4ZZlKvM7ZQpZz4Z4RZn4ZbHZMYZSFZO8ZdYZNzZh4ZDHZdmZoYZkzZZJfql5ZQuL2xNloM7fYUgAc4T4XyHwztkIV/master.m3u8
+https://drive.usercontent.google.com/download?id=1cNr52-nSjU1KYxQQU8alHAqkJ14Uifrp&export=download&confirm=t
 #EXTINF:0,  لێکۆلەر کۆنان
 https://t62.pcloud.com/cWZtzyE6X7Z6L3ppx7ZZZ3rJr0kZQ5ZZgx4ZZOyGH8Z8YZwzZhzZzRZumZd8ZuYZNzZxLZhQZ8LZYFZMRZERZkzZZhstl5Z9ltdqSNz6d8mArdgKa9d3uQdicNX/master.m3u8
 #EXTINF:0, AVA TV HD
