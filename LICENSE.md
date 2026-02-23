@@ -4,7 +4,7 @@ https://drive.usercontent.google.com/download?id=1cNr52-nSjU1KYxQQU8alHAqkJ14Uif
 #EXTINF:0,  لێکۆلەر کۆنان
 https://drive.usercontent.google.com/download?id=1C5104J1zkev6TrowAuCqDWSe9yqWPGQ_&export=download&confirm=t
 #EXTINF:0,  فلیم هیندی
-https://drive.usercontent.google.com/download?id=1bZu3YHgUo-ZjQCfdIfj3eF_PpKydTbKa&export=download&confirm=t
+https://drive.usercontent.google.com/download?id=1KPoZNK36tlWuSdMnb_x1qwpjSd8stiw5&export=download&confirm=t
 #EXTINF:0, AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:0, NRT HD
