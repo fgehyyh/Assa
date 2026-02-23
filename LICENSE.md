@@ -2,7 +2,7 @@
 #EXTINF:0, FREE TVZONE
 https://drive.usercontent.google.com/download?id=1cNr52-nSjU1KYxQQU8alHAqkJ14Uifrp&export=download&confirm=t
 #EXTINF:0,  لێکۆلەر کۆنان
-https://drive.usercontent.google.com/download?id=1Xyoj4y1Zq85ROIBQqdkMCVlC8ifb9Jtn&export=download&confirm=t
+https://drive.google.com/file/d/1C5104J1zkev6TrowAuCqDWSe9yqWPGQ_/view?usp=drivesdk
 #EXTINF:0,  فلیم هیندی
 https://drive.usercontent.google.com/download?id=1bZu3YHgUo-ZjQCfdIfj3eF_PpKydTbKa&export=download&confirm=t
 #EXTINF:0, AVA TV HD
