@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="kurde",  bros
 https://northtelecom.live/KURD.m3u8
-#EXTINF:-1,   لێکۆلەر کۆنان
+#EXTINF:-1 group-title="kurde",   لێکۆلەر کۆنان
 https://drive.usercontent.google.com/download?id=1C5104J1zkev6TrowAuCqDWSe9yqWPGQ_&export=download&confirm=t
-#EXTINF:-1,   لێکۆلەر کۆنان
+#EXTINF:-1 group-title="kurde",   لێکۆلەر کۆنان
 https://drive.usercontent.google.com/download?id=1u8PABaaZlCfBbhCj8gxoVMmmNDMB7i9G&export=download&confirm=t
-#EXTINF:-1,   AVA TV HD
+#EXTINF:-1 group-title="kurde",   AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1,   NRT HD
 http://109.123.245.192/Nrt/index.m3u8
