@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:0, bros
+#EXTINF:-1  bros
 https://northtelecom.live/KURD.m3u8
-#EXTINF:0,  لێکۆلەر کۆنان
+#EXTINF:-1  لێکۆلەر کۆنان
 https://drive.usercontent.google.com/download?id=1C5104J1zkev6TrowAuCqDWSe9yqWPGQ_&export=download&confirm=t
-#EXTINF:0,  لێکۆلەر کۆنان
+#EXTINF:-1  لێکۆلەر کۆنان
 https://drive.usercontent.google.com/download?id=1u8PABaaZlCfBbhCj8gxoVMmmNDMB7i9G&export=download&confirm=t
-#EXTINF:0, AVA TV HD
+#EXTINF:-1  AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:0, NRT HD
+#EXTINF:-1  NRT HD
 http://109.123.245.192/Nrt/index.m3u8
-#EXTINF:0, NRT 2
+#EXTINF:-1   NRT 2
 http://109.123.245.192/Nrt2/index.m3u8
-#EXTINF:0, NRT 4
+#EXTINF:-1   NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:0, RUDAW HD
+#EXTINF:-1  RUDAW HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_source/chunks.m3u8
-#EXTINF:0, K24 FHD
+#EXTINF:-1   K24 FHD
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:0, Channel 8 HD
+#EXTINF:-1   Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:0, KURDSAT
+#EXTINF:-1  KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:0, KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
