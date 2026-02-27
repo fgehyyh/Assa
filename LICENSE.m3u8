@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,  ALA
-https://live3.karwan.tv/ala-tv/index.mpd?token=005a5a82068e906a402136c5ecece27a4e72df7a-e5e598b2e3e3f779f7fd3faa59211632-1772168861-1772158061&remote=no_check_ip
+https://live3.karwan.tv/ala-tv/index.mpd?token=005a5a82068e906a402136c5ecece27a4e72df7a-e5e598b2e3e3f779f7fd3faa59211632-1772168861-1772158061
 #EXTINF:0 CUID="48086" tvg-name="KU : animalbox" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Kurdistan_120-animated-flag-gifs.gif" group-title="kurde", animalbox
 https://live20.bozztv.com:443/giatv/giatv-animalbox/animalbox/chunks.m3u8
 #EXTINF:-1 group-title="kurde",  bros
